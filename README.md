@@ -25,3 +25,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+1.vue属性
+2.父传子：自定义属性；
+3.子传父：自定义事件，events属性
